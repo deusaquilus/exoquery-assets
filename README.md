@@ -1,3 +1,3 @@
 # Video/Img Assets for ExoQuery
 
-https://github.com/user-attachments/assets/c3089ca8-702c-406c-9e11-42fe0f38d074
+https://github.com/user-attachments/assets/d2e3049c-10eb-4fb4-86d0-99aecb4107e6
